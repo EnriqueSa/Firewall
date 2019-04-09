@@ -4,7 +4,7 @@ echo "####################"
 echo "####  Firewall #####"
 echo "####################"
 echo "####################"
-sleep 2
+sleep 1
 iptables -F
 iptables -X
 iptables -Z
